@@ -1,3 +1,3 @@
 # CPSC473
-ottergram files for Assignment 1
+Ottergram files for Assignment 1
 
